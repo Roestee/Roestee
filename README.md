@@ -34,6 +34,11 @@ Aiming towards becoming a Software Architect, I am dedicated to continual learni
 * LinkedIn: [IBRAHIM CINGI](https://www.linkedin.com/in/ibrahim-cingi/)
 * Instagram:  [IBRAHIM CINGI](https://www.instagram.com/ibrahimcngi)
 
+## 🌐 Soma Code Examples
+Please check my code examples and some of my gameplay.
+* [Game Play Video](https://youtu.be/njGHB3pmXiU?si=YGBeh289V8Vpss5N)
+* [Code Examples and CV](https://drive.google.com/drive/folders/1e5wO-vMY8xNuQ-6N1Uw82y64qqg78cPF?usp=sharing)
+
 ## 🎲 Hobbies
 
 In my spare time, I enjoy playing RPG and FPS games, watching movies and anime series, and following developments in computer hardware and technology.
